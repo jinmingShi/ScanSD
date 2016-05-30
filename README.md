@@ -3,8 +3,11 @@ coding quiz for "Write an app that scans all files on the external storage (SD c
 
 Goal:
 Write an app that scans all files on the external storage (SD card) and collects following information:
+
 1) Names and sizes of 10 biggest files
+
 2)  Average file size
+
 3)  5 most frequent file extensions (with their frequencies)
 
 ============================================================================
@@ -33,9 +36,14 @@ Hint:  For every 100 files processed, the app should send one new status bar not
 ============================================================================
 
 Technical Details:
+
 1) Project must be in Android Studio.
+
 2) Project must use all the recent (new) Android SDK features.
+
 3) Project must support all versions starting from Android 4.0.
+
 4) Accomplished project must be posted on Github for review.
+
 
 
